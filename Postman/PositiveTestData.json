@@ -1,0 +1,31 @@
+[
+   {
+      "Language":"Chinese",
+      "LanguageLevel":"Basic",
+      "updateLanguage":"Tamil",
+      "updateLanguageLevel":"Conversational",
+      "Skill":"Specflow",
+      "ExperienceLevel":"Beginner",
+      "PersonSkill":0,
+      "updateSkill":"Cucumber",
+      "updateSkillLevel":"Expert",
+      "deleteSkill":"Cucumber",
+      "deleteSkillLevel":"Expert",
+      "CertificationName":"Cypress",
+      "CertifiedFrom":"Cypress Institute",
+      "CertificationYear":"2022",
+      "updateCertificationName":"Playwright",
+      "updateCertifiedFrom":"Playwright Course",
+      "updateCertificationYear":"2024",
+      "FirstName":"Sasikala",
+      "LastName":"Prabu",
+      "availabilityType":"1",
+      "availableHours":"2",
+      "earnTarget":"3",
+      "isDeactivated":"false",
+      "isAuthenticated":"true",
+      "username":"Sasikala",
+      "Description":"I am a QA tester with 4 years of experience in manual and automation testing",
+      "personId":0
+   }
+]
