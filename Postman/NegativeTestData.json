@@ -1,0 +1,32 @@
+[
+   {
+      "Language":"English",
+      "LanguageLevel":"Fluent",
+      "Skill":"Selenium",
+      "ExperienceLevel":"Beginner",
+      "PersonSkill":0,
+      "CertificationName":"ISTQB",
+      "CertifiedFrom":"Institute",
+      "CertificationYear":"2015"
+   },
+   {
+      "Language":"",
+      "LanguageLevel":"Basic",
+      "Skill":"",
+      "ExperienceLevel":"Expert",
+      "PersonSkill":0,
+      "CertificationName":"",
+      "CertifiedFrom":"Cypress Institute",
+      "CertificationYear":"2023"
+   },
+   {
+      "Language":"@#$%^&",
+      "LanguageLevel":"Basic",
+      "Skill":"@#$%^&",
+      "ExperienceLevel":"Expert",
+      "PersonSkill":0,
+      "CertificationName":"@#$%^&",
+      "CertifiedFrom":"Training Institute",
+      "CertificationYear":"2024"
+   }
+]
